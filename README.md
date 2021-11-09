@@ -1,7 +1,7 @@
 # CIN_detection
 This repository contains code for the CIN detection project
 
-DATASET DESCRIPTION
+**DATASET DESCRIPTION**
 
 D1 - Raw Data
 
