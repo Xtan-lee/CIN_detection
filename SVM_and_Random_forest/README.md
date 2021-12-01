@@ -1,1 +1,1 @@
-
+The code consists of both the random forest and SVM code which can be run one after the other. You pass in the same feature set that you pass in wide and deep for comparision and note the result. The code also consists of SMOTE technology to handle the class imbalance problem.
